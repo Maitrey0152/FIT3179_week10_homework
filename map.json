@@ -80,7 +80,7 @@
   }},
   {
     "data": {
-        "url": "cafes.csv"
+        "url": "https://raw.githubusercontent.com/Maitrey0152/FIT3179_week10_homework/refs/heads/main/cafes.csv"
       },
       "params": [{
         "name":"categoryfilter", 
