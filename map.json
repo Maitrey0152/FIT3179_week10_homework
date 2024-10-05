@@ -91,7 +91,7 @@
       "mark": "circle",
       "transform": [
       {
-        "filter": "datum['industry_anzsic4_description'] == 'Cafes and Restaurants'"
+        "filter": "datum['industry_anzsic4_description'] == categoryfilter"
       }],
       "encoding": {
         
