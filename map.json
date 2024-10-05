@@ -9,7 +9,7 @@
     "layer": [
       {
         "data": {
-          "url": "/topojson/melbourne.topojson",
+          "url": "https://raw.githubusercontent.com/Maitrey0152/FIT3179_week10_homework/refs/heads/main/topojson/melbourne.topojson",
           "format": {"type": "topojson","feature": "collection"}
         },
         
@@ -23,7 +23,7 @@
       },
     {
     "data": {
-      "url": "/topojson/melbourne.topojson",
+      "url": "https://raw.githubusercontent.com/Maitrey0152/FIT3179_week10_homework/refs/heads/main/topojson/melbourne.topojson",
       "format": {
         "type": "topojson",
         "feature": "collection"
